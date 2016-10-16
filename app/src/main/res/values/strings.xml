@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pelatihan Android #2</string>
+
+
+    <string name="my_profile">My Profile</string>
+    <string name="nama">Adik Istanto</string>
+    <string name="alamat">Jl. Bulusan X No. 107, Kel. Bulusan, Tembalang Semarang</string>
+    <string name="telp">08977631260</string>
+    <string name="email">adikistanto1@gmail.com</string>
+    <string name="deskripsi_singkat">Saat ini sedang menempuh pendidikan S1 di Universitas Diponegoro. Jurusan yang yang diambil adalah Teknik Informatika</string>
+    <string name="pengalaman_kerja">Pengalaman kerja yang saya miliki diantaranya yaitu bekerja di Himpunan Mahasiswa Informatika (HMIF) sebagai staff Pendidikan</string>
+    <string name="motto_hidup">Berjuang untuk dunia akhirat yang sukses</string>
+
+
+    <string name="resep_menu">Resep Masakan Nusantara</string>
+    <string name="resep_daftar">Daftar Resep</string>
+    <string name="resep_detail">Detail Resep</string>
+
+    <string name="kalkulator">Kalkulator</string>
+
+
+</resources>
